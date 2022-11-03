@@ -1,0 +1,57 @@
+body {
+
+}
+
+
+#super {
+  margin-top: 20vh;
+  border-radius: 15px;
+  display:  flex;
+  justify-content:  center;
+}
+
+.obounds {
+  background-color: #ffffff;
+  width: fit-content;
+  padding: 20px;
+  margin-left: 40px;
+  margin-top: 40px;
+  border-radius: 15px;
+  border: none;
+  color: white;
+  font-size: 30px;
+  background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 0px 30px 1px rgb(0 0 0 / 99%);
+  backdrop-filter: blur(10px);
+}
+
+#diw {
+  background-color: #ffffff;
+  transform: rotate(90deg);
+  width: 30vh;
+  height: fit-content;
+  padding: 20px;
+  margin-left: 20px;
+  margin-top: 120px;
+
+  border-radius: 15px;
+  border: none;
+  color: white;
+  font-size: 30px;
+  background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 0px 30px 1px rgb(0 0 0 / 99%);
+  backdrop-filter: blur(10px);
+}
+
+#content {
+  display: flex;
+  padding: 20px;
+  padding-bottom: 40px;
+  border-radius: 24px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.01);
+  box-shadow: 0px 0px 30px 1px rgb(0 0 0 / 99%);
+  backdrop-filter: blur(10px);
+  width: fit-content;
+  height: fit-content;
+}
